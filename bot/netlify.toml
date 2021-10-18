@@ -1,11 +1,11 @@
 [[redirects]]
-  from = "/*"
-  to = "https://docs.christmascountdown.live/discord/:splat"
+  from = "/"
+  to = "https://docs.christmascountdown.live/discord/introduction"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/"
-  to = "https://docs.christmascountdown.live/discord/introduction"
+  from = "/*"
+  to = "https://docs.christmascountdown.live/discord/:splat"
   status = 301
   force = false
