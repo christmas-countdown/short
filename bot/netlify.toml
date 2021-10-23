@@ -2,6 +2,11 @@
   from = "/"
   to = "https://christmascountdown.live/discord"
   status = 301
+
+[[redirects]]
+  from = "/stats"
+  to = "https://statcord.com/bot/509851616216875019"
+  status = 301
   force = false
 
 [[redirects]]
