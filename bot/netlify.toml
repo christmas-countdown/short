@@ -5,7 +5,8 @@
 
 [[redirects]]
   from = "/stats"
-  to = "https://statcord.com/bot/509851616216875019"
+  #to = "https://statcord.com/bot/509851616216875019"
+  to = "https://grafana.eartharoid.me/d/au6Q9Xdnz"
   status = 301
   force = false
 
