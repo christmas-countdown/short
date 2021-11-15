@@ -12,6 +12,6 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://docs.christmascountdown.live/discord/:splat"
+  to = "https://christmascountdown.live/discord/:splat"
   status = 301
   force = false
